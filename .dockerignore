@@ -1,0 +1,14 @@
+.git
+.agents
+.codex
+.aws
+.tools
+.cache
+.env
+bin
+web/node_modules
+web/dist
+web/test-results
+web/playwright-report
+kind-tmp.*
+
